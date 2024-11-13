@@ -6,6 +6,70 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>titulo h1</h1>
+    <form>
+        <br>
+        <input
+            type="text"
+            name="nombre"
+            placeholder="Ingresa tu nombre"
+            maxlength="10"
+            minlength="4"
+            required
+        />
+        <br>
+        <br>
+        <input
+            type="text"
+            name="apellido "
+            placeholder="Ingresa tu apellido"
+            maxlength="10"
+            minlength="4"
+            required
+        />
+        <br>
+        <br>
+        <input
+        type="password"
+        name="contraseña"
+        placeholder="Ingresa tu contraseña"
+        maxlength="10"
+        minlength="4"
+        required
+        />
+        <br>
+        <p>Ingresa tu rango salarial</p>
+        <br>
+        <label>
+            entre 0 MXN - 40,000 MXN
+            <input
+            type="radio"
+            name="salario"
+            >
+            Entre 40,000 MXN - 100,000 MXN
+        </label>
+        <br>
+        <input
+            type="date"
+            name="fecha_nacimiento"
+        >
+        <br>
+        <select name="animal favorito">
+            <option value="gato">Gato</option>
+            <option value="perro">Perro</option>
+            <option value="araña">Araña</option>
+            <option value="otro">Otro</option>
+        </select>
+        <br>
+        <textarea
+            name="observaciones"
+            rows="14"
+            cols="10"
+            placeholder="Ingresa observaciones"
+        ></textarea>
+        <br>
+        <button type="submit">Envir Información</button>
+        <button type="reset">Resetear</button>
+    </form>
 </body>
 </html>
