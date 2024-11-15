@@ -32,4 +32,4 @@ git push origin main
 ```
 git pull origin main
 ```
-![Imágen genérica #1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcat%2F&psig=AOvVaw1pwvnUmr4ITyJaSoesixwI&ust=1731722672378000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiU3-ef3YkDFQAAAAAdAAAAABAE)
+![Imágen genérica #1](https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_2x1.jpg)
